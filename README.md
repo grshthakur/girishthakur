@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+### Technical Skills: Python, SQL, AWS, Machine Learning, Statistics, NLP
 
 ## Education
 M-TECH(Data Science) | BITS Pilani  
